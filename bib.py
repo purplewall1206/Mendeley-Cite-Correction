@@ -17,6 +17,8 @@ with open('title.txt', 'r') as f:
 print(titles[0])
 search_query = scholarly.search_pubs(titles[0])
 scholarly.pprint(next(search_query))
+# search_query = scholarly.search_pubs('Perception of physical stability and center of mass of 3D objects')
+# scholarly.pprint(next(search_query))
 # paper = scholarly.fill(next(search_query))
 # print(paper)
 # for t in titles:
