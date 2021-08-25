@@ -1,0 +1,42 @@
+Revery: From proof-of-concept to exploitable (one step towards automatic exploit generation)
+Llvm-a-Compilation-Framework-for-Lifelong-Program-Analysis.Pdf
+
+
+KMLIB: TOWARDS MACHINE LEARNING FOR OPERATING SYSTEMS
+
+
+The benefits and costs of writing a POSIX kernel in a high-level language This paper is included in the Proceedings of the
+Bitcoin: A Peer-to-Peer Electronic Cash System
+
+
+
+H eap H opper : Bringing Bounded Model Checking to Heap Implementation Security
+
+Writing Scientific Documents Using L E Starting a L
+
+
+
+Following the White Rabbit : Software attacks against Intel ( R ) VT-d technology
+Intel 64 and IA-32 Architectures Software Developer's Manual Combined Volumes
+Multiprogramming a 64 kB Computer Safely and Efficiently
+
+
+Ftrace Linux Kernel Tracing Who am I ?
+Applying Machine Learning Techniques to improve Linux Process Scheduling
+
+
+
+Linux System Programming by Robert Love
+Compiling Linux with LLVM
+An Investigation of the Android Kernel Patch Ecosystem
+
+
+Elements of style: Consent form language and the therapeutic misconception in phase 1 gene transfer trials
+VScape: Assessing and Escaping Virtual Call Protections
+SecPT ： Providing Efficient Page Table Protection based on SMAP 
+
+The Performance Cost of Shadow Stacks and Stack Canaries Time of Check to Time of Use
+
+A Decade of Linux Kernel Vulnerabilities, their Mitigation and Open Problems
+
+Direct device assignment for untrusted fully-virtualized virtual machines
