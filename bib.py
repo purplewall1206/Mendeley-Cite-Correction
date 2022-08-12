@@ -3,18 +3,24 @@ import os
 import json
 import time
 
-os.environ["http_proxy"] = "http://127.0.0.1:20171"
-os.environ["https_proxy"] = "http://127.0.0.1:20171"
+# os.environ["http_proxy"] = "http://127.0.0.1:20171"
+# os.environ["https_proxy"] = "http://127.0.0.1:20171"
 
 titles = []
 ext = []
+
+title_set = set() # remove dups
 
 with open('title.txt', 'r') as f:
     lines = f.readlines()
     for line in lines:
         i = line.find('}}')
         x = line[10:i]
-        titles.append(x)
+        title_set.add(x)
+        # titles.append(x)
+
+print(len(title_set))
+titles = list(title_set)
 
 bibtex = []
 
